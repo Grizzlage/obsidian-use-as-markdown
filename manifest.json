@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-treat-as-markdown",
+	"version": "1.0.0",
+	"description": "Use and edit various file types as markdown files",
+	"name": "treat as markdown",
+	"author": "grizzlage",
+	"authorUrl": "https://github.com/grizzlage",
+	"isDesktopOnly": false,
+	"minAppVersion": "0.10.12"
+}
